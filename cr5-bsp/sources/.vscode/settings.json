@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "can_config.h": "c",
+        "ipc_typedef.h": "c",
+        "ipc.h": "c",
+        "project_ipc.h": "c",
+        "sal_com.h": "c",
+        "sal_api.h": "c",
+        "system_monitoring.h": "c",
+        "bootctrl.h": "c",
+        "app_cfg.h": "c",
+        "main.h": "c",
+        "defs.h": "c",
+        "internal_io.h": "c",
+        "front_board.h": "c",
+        "mid_board.h": "c",
+        "rear_board.h": "c",
+        "abnormal.h": "c",
+        "timer_test.h": "c",
+        "sal_internal.h": "c",
+        "ultra_sonic.h": "c",
+        "external_io.h": "c",
+        "semaphore.h": "c",
+        "semphr.h": "c",
+        "control.h": "c"
+    }
+}
